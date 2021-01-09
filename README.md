@@ -1,24 +1,25 @@
 # section2q2
 
 ## Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### This Project serve on Port 8080
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+http://localhost:8080
+```
